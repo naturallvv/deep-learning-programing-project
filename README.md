@@ -1,5 +1,7 @@
 # deep-learning-programing-project
 
-CNN 기반 실시간 영상 얼굴 인식 시스템
+프로젝트 주제 : 지구와 유사한 행성을 찾기 위한 항성 분류 모델
 
-안녕하세요
+데이터 : https://www.kaggle.com/datasets/deepu1109/star-dataset
+
+선택모델 : Random Forest
